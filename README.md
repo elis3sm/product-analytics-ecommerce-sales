@@ -79,4 +79,3 @@ pip install -r requirements.txt
 
 **Элина Еникеева**  
 Telegram: [@elis3sm](https://t.me/elis3sm)
-```
