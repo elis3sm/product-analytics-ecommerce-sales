@@ -77,5 +77,6 @@ pip install -r requirements.txt
 
 ## Автор
 
-**Элина Еникеева**
+**Элина Еникеева**  
+
 Telegram: [@elis3sm](https://t.me/elis3sm)
